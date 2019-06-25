@@ -5,3 +5,4 @@ Added a line from Github.
 Sharing remotely is easy and fun.
 Pushing changes using SSH.
 Feature 2
+Feature2 changes
