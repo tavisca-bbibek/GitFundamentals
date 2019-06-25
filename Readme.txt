@@ -6,6 +6,7 @@ Sharing remotely is easy and fun.
 Pushing changes using SSH.
 
 Fixed bug#1234
+Another fix to Bug#1234
 
 
 Feature 1
